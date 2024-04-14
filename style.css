@@ -1,0 +1,11 @@
+body {
+  background: #f0f0f0;
+  margin: 40px auto;
+  width: 600px;
+}
+
+h2,
+p,
+iframe {
+  margin-bottom: 40px;
+}
